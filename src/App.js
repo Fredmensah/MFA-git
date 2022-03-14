@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app">
       <h1 class="welcome">End of lecture</h1>
-      <img src={done} className="box bounce-7" alt="logo" />
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/C_c7goREzho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       <p class="headline">We learnt something new</p>
     </div>
